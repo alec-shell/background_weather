@@ -1,4 +1,5 @@
-This program will update the Windows background image according to current weather conditions in your area via a weather API, in addition to a seperate background image upon nightfall.
+Updates Windows background image according to current weather conditions in your area.
+Seperate nighttime image.
 The background_images file must be stored in the same folder as background_weather.py.
-To automate the program, I recommend Task Scheduler.
-For Windows OS only.  
+Run program with Task Scheduler via pythonw.exe. 
+Written for Windows OS.  
